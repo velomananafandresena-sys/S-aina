@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fahasalamana \u0026 Aina - Santé Mentale et Handicap Madagascar",
+  "description": "Application web d\u0027orientation, de psycho-éducation et d\u0027accompagnement en santé mentale et handicap à Madagascar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
